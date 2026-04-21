@@ -1,6 +1,6 @@
 # Unfolding with a Wasserstein Loss
 
-Numerical implementation of unfolding with a Wasserstein Loss and comparison to Richardson Lucy (also known as IBU) unfolding. Includes a 1D toy-data demo and a 2D demo on jet-mass data.
+Numerical implementation of unfolding with a Wasserstein loss and comparison to Richardson Lucy (also known as IBU) unfolding. Includes a 1D toy-data demo and a 2D demo on jet-mass data.
 
 ## Repository layout
 
