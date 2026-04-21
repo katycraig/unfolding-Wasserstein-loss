@@ -1,11 +1,11 @@
-# OT Unfolding
+# Unfolding with a Wasserstein Loss
 
-Optimal-transport (OT) deconvolution and Iterative Bayesian Unfolding (IBU / Richardson–Lucy) for unfolding / deconvolving experimental distributions. Includes a 1D toy-data demo and a 2D demo on jet-mass data.
+Numerical implementation of unfolding with a Wasserstein Loss and comparison to Richardson Lucy (also known as IBU) unfolding. Includes a 1D toy-data demo and a 2D demo on jet-mass data.
 
 ## Repository layout
 
 ```
-ot-unfolding/
+unfolding-Wasserstein-loss/
 ├── data/                       # input data files
 │   ├── jet_mass.txt
 │   └── jet_mass_SD.txt
